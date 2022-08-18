@@ -9,6 +9,7 @@ public class TestNGClass {
   }
   @BeforeTest
   public void beforeTest() {
+    
   }
 
 }
